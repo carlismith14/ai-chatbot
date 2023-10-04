@@ -12,7 +12,7 @@ The AI Chatbot combines the power of AI with proprietary product information to 
 - OpenAI
 
 
-*Kindly be advised that the demo link and project source code for this endeavor are currently unavailable. Nevertheless, you are encouraged to explore the screenshots and project highlights provided below for a comprehensive overview."
+*Kindly be advised that the demo link and project source code for this endeavor are currently unavailable. Nevertheless, you are encouraged to explore the screenshots and project highlights provided below for a comprehensive overview.
 
 # Highlights 
 
